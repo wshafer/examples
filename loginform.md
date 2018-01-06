@@ -6,8 +6,7 @@ CREATE TABLE users (
   PRIMARY KEY (id)
 );
 ```
-
-
+<br />
 
 `index.php`
 ```php
@@ -22,6 +21,7 @@ CREATE TABLE users (
 </body>
 </html>
 ```
+<br />
 
 `registration.php`
 ```php
@@ -53,6 +53,8 @@ CREATE TABLE users (
 </body>
 </html>
 ```
+
+<br />
 
 `login.php`
 ```php
@@ -88,6 +90,8 @@ CREATE TABLE users (
 </html>
 ```
 
+<br />
+
 `logout.php`
 ```php
 <html>
@@ -100,6 +104,8 @@ CREATE TABLE users (
 </body>
 </html>
 ```
+
+<br />
 
 `forgot-password.php`
 ```php
@@ -123,6 +129,8 @@ CREATE TABLE users (
 </body>
 </html>
 ```
+
+<br />
 
 `reset.php`
 ```php
@@ -152,4 +160,3 @@ CREATE TABLE users (
 </body>
 </html>
 ```
-
